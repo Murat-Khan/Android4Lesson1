@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android4Lesson1</string>
+    <string name="url">Введите Url</string>
+    <string name="submit">Submit</string>
+    <string name="Url">Введите Url</string>
+    <string name="it_not_url">Это не изоброжение</string>
+
+</resources>
